@@ -12,3 +12,4 @@ This is a collection of my Call of Duty mods.
 - [zm_gobblegums](https://github.com/maxvanasten/cod-mods/raw/refs/heads/master/dist/t6/zm_gobblegums.zip): WIP Gobblegums mod.
 - [zm_tomb_challenge](https://github.com/maxvanasten/cod-mods/raw/refs/heads/master/dist/t6/zm_tomb_challenge.zip): An Origins spawnroom gungame challenge. [video](https://youtu.be/uSuFHBWrMuk)
 - [zm_quests_demo](https://github.com/maxvanasten/cod-mods/raw/refs/heads/master/dist/t6/zm_quests_demo.zip): WIP Quests/Objectives mod.
+- [zm_speedrun_timer](https://github.com/maxvanasten/cod-mods/raw/refs/heads/master/dist/t6/zm_speedrun_timer.zip): A simple, customizable speedrun timer.
